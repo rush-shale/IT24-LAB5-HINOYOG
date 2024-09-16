@@ -1,5 +1,5 @@
 body{
-    background-image: url("image/ed7eaa1d912dca9aa247878456dc93d6.jpg");
+    background-image: url("image/ron-jakowski-grand-theft-auto-v-gta-wallpaper-preview.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -17,6 +17,16 @@ h1{
   .header img{
     height: 50px;
     width: 50px;
+  }
+  h2{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(235, 225, 225);
+  }
+  h3{
+    text-align: left;
+    font-size: 40px;
+    
   }
   
   
@@ -71,10 +81,4 @@ h1{
     text-align: justify;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 75px;
-  }
-
-
-  ul{
-    align-items: center;
-    size: 20px;
   }
