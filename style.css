@@ -1,8 +1,10 @@
 body{
-    background-image: url("image/ron-jakowski-grand-theft-auto-v-gta-wallpaper-preview.jpg");
+    background-image: url("image/bart-simpsons-shadow-r4gsbbindj0ywldk.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
+  
+
 h1{
     color: rgb(60, 179, 113), blue;
     text-align: center;
@@ -21,7 +23,7 @@ h1{
   h2{
     font-size: 40px;
     text-align: center;
-    color: rgb(235, 225, 225);
+    color: rgb(70, 68, 68);
   }
   h3{
     text-align: left;
